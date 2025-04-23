@@ -6,6 +6,6 @@ setup(
     packages=find_packages(include=["common", "common.*"]),
     install_requires=[
     ],
-    url="https://github.com/Wqe333/common-lib",
+    url="https://github.com/Wqe333/common_lib",
     python_requires='>=3.8',
 )
